@@ -1,0 +1,32 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.azrul.services.banking"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "microservice",
+    "baseName": "banking",
+    "packageName": "org.azrul.services.banking",
+    "packageFolder": "org/azrul/services/banking",
+    "serverPort": "18081",
+    "authenticationType": "oauth2",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YTZjMjk1YjIwNTU5NWIxZTRiZDAzY2M3Mzk2MGZmNjU4N2E0ZjBiN2E5OTFkNWRhZmFlNzkzYjU5NGIyOTBkY2I0NTk2M2M5NGNjYjczZDBkMDIyYTYwNjU0YzEzMjA3OWQ2NDM3MTU1YjIzZWRmMjViYWJkMDZlZDQ2MzMzNTI=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
