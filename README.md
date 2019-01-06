@@ -1,0 +1,1 @@
+# JHipsterOAuth2
